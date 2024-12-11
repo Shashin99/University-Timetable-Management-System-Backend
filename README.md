@@ -8,7 +8,8 @@
 - *Postman:* API documentation tool.
 
 ## Setup Instructions
-1. Clone the repository: git clone [https://github.com/Shashin99/University-Timetable-Management-System-Backend.git]
+1. Clone the repository: <br/>
+git clone [https://github.com/Shashin99/University-Timetable-Management-System-Backend.git]
 2. Install dependencies: npm install
 3. Set up MongoDB and configure connection settings in configuration.js and .env.
 4. Start the server: npm start
