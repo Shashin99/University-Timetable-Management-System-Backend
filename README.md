@@ -17,7 +17,7 @@ git clone [https://github.com/Shashin99/University-Timetable-Management-System-B
 
 ## API Documentation
 API documentation is available using Postman API. After starting the server, navigate to <br/>
-[]
+[https://documenter.getpostman.com/view/25454430/2sAYHwK4s2]
 
 IT21355196
 ( K. L. S. Kalpajith ) <br/>
